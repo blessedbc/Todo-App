@@ -17,3 +17,10 @@
 body {
   background-color: var(--dark-grey);
 }
+
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

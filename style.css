@@ -5,3 +5,11 @@
   --yellow: #f1be32;
   --golden-yellow: #feac32;
 }
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}

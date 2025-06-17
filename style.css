@@ -53,3 +53,7 @@ h1 {
   border-color: var(--golden-yellow);
   border-width: 3px;
 }
+
+.btn:hover {
+  background-image: linear-gradient(#ffcc4c, #f89808);
+}

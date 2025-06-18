@@ -64,3 +64,9 @@ h1 {
   align-self: center;
   justify-self: center;
 }
+
+.close-task-form-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+}

@@ -96,3 +96,9 @@ h1 {
   display: flex;
   justify-content: flex-end;
 }
+
+.task-form-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}

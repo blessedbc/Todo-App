@@ -73,3 +73,6 @@ const editTask = (buttonEl) => {
     (item) => item.id === buttonEl.parentElement.id
   );
    currentTask = taskData[dataArrIndex];
+   titleInput.value = currentTask.title;
+ 
+}
